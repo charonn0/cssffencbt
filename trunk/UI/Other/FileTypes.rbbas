@@ -1,0 +1,1 @@
+#tag FileTypeSet	#tag FileType		CodeName=AnyFile		Extension=		Flags=&h1		MacCreator=????		MacType=????		Name=Any File	#tag EndFileType#tag EndFileTypeSet
